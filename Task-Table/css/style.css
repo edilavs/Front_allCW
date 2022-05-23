@@ -1,0 +1,25 @@
+.remove button {
+    background-color: rgb(126, 38, 38);
+    color: white;
+    padding: 3px;
+}
+
+.empty {
+    width: 800px;
+    height: 500px;
+    border: 3px solid;
+    margin: 0 auto;
+    margin-bottom: 5px;
+}
+
+.img-box {
+    text-align: center;
+    padding: 160px;
+}
+
+.remove {}
+
+.table {
+    background-color: black;
+    color: white;
+}
